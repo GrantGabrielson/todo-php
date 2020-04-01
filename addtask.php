@@ -8,8 +8,8 @@
         <div class="card" style="width: 50%">
         <form method="post" style="padding: 20px" action="./performadd.php">
             <div class="form-group">
-                <label for="summary" class="text-primary">Summary</label>
-                <input class="form-control" id="summary" name="summary">
+                <label for="time" class="text-primary">time</label>
+                <input class="form-control" id="time" name="time">
 
                 <label for="details" class="text-primary">Details</label>
                 <textarea class="form-control" id="details" rows="3" name="details"></textarea>
